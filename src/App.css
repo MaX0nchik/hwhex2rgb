@@ -1,0 +1,26 @@
+.container{
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+
+input{
+  width: 130px;
+  height: 50px;
+  margin-top: 48vh;
+  margin-left: 48vw;
+  text-align: center;
+  font-size: 16pt;
+  letter-spacing: 3px;
+}
+
+label{
+  display: flex;
+  margin-left: 48vw;
+  width: 135px;
+  height: 50px;
+  opacity: 0.8;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
